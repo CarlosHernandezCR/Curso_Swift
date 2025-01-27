@@ -18,6 +18,7 @@ class ViewController: UIViewController {
 
     @IBAction func botonPulsado(_ sender: Any) {
         print("BIENVENIDO")
+        label1.text="BIENVENIDO ALUMNO"
     }
     
 }
