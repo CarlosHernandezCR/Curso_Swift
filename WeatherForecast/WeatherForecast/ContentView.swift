@@ -8,8 +8,8 @@
 import SwiftUI
 
 struct ContentView: View {
+    @State private var lista = false
     var body: some View {
-        var lista = true
         VStack{
             Text("Pulsa en el boton para verlo todo o por lista")
             Button(action: {
