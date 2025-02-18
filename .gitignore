@@ -95,3 +95,9 @@ fastlane/test_output
 # Otros archivos que puedan generar conflictos
 !README.md
 !LICENSE
+OnboardingFlow/OnboardingFlow.xcodeproj/project.pbxproj
+OnboardingFlow/OnboardingFlow.xcodeproj/project.pbxproj
+OnboardingFlow/OnboardingFlow.xcodeproj/project.pbxproj
+OnboardingFlow/OnboardingFlow/Assets.xcassets/AccentColor.colorset/Contents.json
+OnboardingFlow/OnboardingFlow/Info.plist
+OnboardingFlow/OnboardingFlow/Assets.xcassets/Contents.json
